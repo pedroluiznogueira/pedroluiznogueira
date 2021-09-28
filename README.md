@@ -1,4 +1,6 @@
 ### Olá, me chamo Pedro Luiz 👋
+![feynman](https://user-images.githubusercontent.com/81788112/135108593-0470ae69-0946-4482-a638-c7924245e727.png)
+
 
 - 🔭 Estou atualmente trabalhando em meus projetos pessoais 
 - 🌱 Tenho constantemente procurado aprender e me aperfeiçoar nas tecnologias que domino 
