@@ -1,6 +1,4 @@
 ### Olá, me chamo Pedro Luiz 👋
-![feynman](https://user-images.githubusercontent.com/81788112/135108593-0470ae69-0946-4482-a638-c7924245e727.png)
-
 
 - 🔭 Estou atualmente trabalhando em meus projetos pessoais 
 - 🌱 Tenho constantemente procurado aprender e me aperfeiçoar nas tecnologias que domino 
@@ -38,5 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   <a href="https://www.linkedin.com/in/pedroluiznogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ![feynman](https://user-images.githubusercontent.com/81788112/135108593-0470ae69-0946-4482-a638-c7924245e727.png)
  
 </div>
