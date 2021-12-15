@@ -2,7 +2,7 @@
 
 - 🔭 Estou atualmente trabalhando como Analista de Sistema na @ Deloitte 
 - 🌱 Tenho constantemente procurado aprender e me aperfeiçoar nas tecnologias que domino 
-- 👯  Adoraria colaborar em projetos Open Source
+- 👯  Amo colaborar em projetos Open Source
 - 📫 Contate-me em algumas das redes sociais abaixo
 - 😄 Pronouns: ele/dele
 
