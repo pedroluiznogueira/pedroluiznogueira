@@ -1,3 +1,10 @@
+ <p>
+  <img src="http://views.whatilearened.today/views/github/pedroluiznogueira/views.svg"/> 
+  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+    <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+<a href="https://github.com/pedroluiznogueira/"><img src="https://img.shields.io/github/followers/pedroluiznogueira?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+    <a href="https://github.com/pedroluiznogueira?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
+
 ### Olá, me chamo Pedro Luiz 👋
 
 - 🔭 Estou atualmente trabalhando como Analista de Sistema na @ Deloitte 
@@ -36,8 +43,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   <a href="https://www.linkedin.com/in/pedroluiznogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- ![Profile View Counter](https://komarev.com/ghpvc/?username=pedroluiznogueira)
-  
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pedroluiznogueira/office-exchange)
 </div>
