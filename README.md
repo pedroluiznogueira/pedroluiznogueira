@@ -37,7 +37,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=pedroluiznogueira)
   
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+ ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/pedroluiznogueira/office-exchange)
 </div>
