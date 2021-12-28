@@ -20,7 +20,7 @@
 ### Olá, me chamo Pedro Luiz 👋
 
 - 🔭 Estou atualmente trabalhando como Analista de Sistema na @ Deloitte 
-- 😄 Escrevo artigos de programação na <a href="https://medium.com/@pedroluiznogueira">Medium</a>
+- 😄 Escrevo artigos de programação na <a href="https://pedroluiznogueira.medium.com">Medium</a>
 - 🌱 Tenho constantemente procurado aprender e me aperfeiçoar nas tecnologias que domino 
 - 👯  Amo colaborar em projetos Open Source
 - 📫 Contate-me em algumas das redes sociais abaixo
