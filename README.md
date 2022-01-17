@@ -5,8 +5,6 @@
    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain-wordmark.svg" />
    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
    <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-original-wordmark.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apachekafka/apachekafka-original-wordmark.svg" />
-   <img align="center" height="100" width="110" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original-wordmark.svg" />
 </div>
  <br>
  <br>
