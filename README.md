@@ -1,6 +1,6 @@
  ### Hey, I'm Pedro Luiz 👋
 
-- 🔭 I'm currently working as Software Engineer at @ViasoftKorp and working with the following technologies
+- 🔭 I'm currently working as Software Engineer at @Deloitte and working with the following technologies
  
  <div style="display: inline_block"><br>
    <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" />
