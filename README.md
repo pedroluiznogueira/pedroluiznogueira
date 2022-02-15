@@ -16,7 +16,6 @@
  <p>
   <img src="http://views.whatilearened.today/views/github/pedroluiznogueira/views.svg"/> 
   <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
-  <img src="https://img.shields.io/badge/Back End-Csharp-f55247"/>
   <img src="https://img.shields.io/badge/Front End-React-f55247"/>
   <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
   <a href="https://github.com/pedroluiznogueira?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
