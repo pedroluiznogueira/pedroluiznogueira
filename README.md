@@ -26,6 +26,8 @@
 - 😄 <a href="https://pedroluiznogueira.medium.com/integrate-a-spring-api-with-aws-s3-to-send-files-and-then-consume-it-with-a-react-and-angular-app-a7e53dde791d">Integrate a Spring API with AWS S3 to send files and then consume them with a React and Angular app</a>
 - 😄 <a href="https://towardsdev.com/install-and-configure-mongodb-and-robo3t-85d0404fcad6">Install and configure MongoDB and Robo3T</a>
 - 😄 <a href="https://towardsdev.com/create-a-ci-cd-pipeline-for-a-storage-api-using-spring-docker-travis-ci-and-heroku-d51d6ddb36f7">Create a CI/CD pipeline with Spring, Docker and Heroku</a>
+- 😄 <a href="https://towardsdev.com/behavior-parameterization-pattern-in-java-with-lambdas-streams-and-functional-interfaces-99ff6eafaba6">Behavior Parameterization in Java and Spring, with lambdas, streams and functional interfaces</a>
+- 😄 <a href="https://pedroluiznogueira.medium.com/learn-solid-design-principles-in-java-by-coding-it-dcbf64a17b53">Learn SOLID Design Principles in Java by Coding It</a>
 
 <hr>
 
