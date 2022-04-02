@@ -6,10 +6,8 @@
    <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original-wordmark.svg" />
    <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/spring/spring-original-wordmark.svg" />
    <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" />
-   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/kubernetes/kubernetes-plain-wordmark.svg" />
    <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
    <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" />
-   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/angularjs/angularjs-original-wordmark.svg" />
 </div>
  <br>
  <br>
@@ -17,7 +15,6 @@
   <img src="http://views.whatilearened.today/views/github/pedroluiznogueira/views.svg"/> 
   <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
   <img src="https://img.shields.io/badge/Front End-React-f55247"/>
-  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
   <a href="https://github.com/pedroluiznogueira?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 <hr>
 
